@@ -1,0 +1,53 @@
+<html>
+<head>
+  <title>De Obscolescentia - interactive art installation</title>
+  <meta content="Catodo" name="author">
+  <meta content="De obsolescentia, an interactive art installation by Catodo and Giuseppe La Spada" name="description">
+  <meta content="water, obsolescentia, obsolescence, photo, interaction, computational art, creative code, generative art, net.art" name="keywords">
+  <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.3/webfont.js" type="text/javascript" async=""></script>
+  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Montserrat:400,700%7CPlayfair+Display:400,700,900,400italic,700italic,900italic&amp;amp;subset=latin">
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+  <script src="js/p5.min.js"></script>
+  <script src="js/p5.dom.js"></script>
+  <script src="js/p5.sound.min.js"></script>
+</head>
+<body>
+  <div class="container">
+    <table class="menu">
+      <tr>
+        <td width="550" align="left"><a href="/deobsolescentia" title="Sublimis"><img src="img/logo_sublimis.jpg" height="50px"></a></td>
+        <td width="100"><a href="about.html">About</a></td>
+        <td width="200"><a href="http://sublimis.org">Sublimis exhibition</a></td>
+      </tr>
+    </table>
+    <h2 class="dark pad-top-half" align="center">de obsolescentia</h2>
+    <table class="content">
+      <tr>
+        <td width="200" align="center" valign="top">
+          <img src="img/1_min.png" vspace="1" onClick="loadBigImage(1);">
+          <img src="img/2_min.png" vspace="1" onClick="loadBigImage(2);">
+          <img src="img/3_min.png" vspace="1" onClick="loadBigImage(3);">
+          <img src="img/4_min.png" vspace="1" onClick="loadBigImage(4);">
+        </td>
+        <td align="center"><div id="obsolescentia" align="center"></div></td>
+        <td width="200" align="center" valign="top">
+          <small>color</small><br />
+          <div id="cslider"></div>
+          <small>brush width</small><br />
+          <div id="hslider"></div>
+          <small>brush height</small><br />
+          <div id="vslider"></div>
+          <small>num. pixels</small><br />
+          <div id="randslider"></div>
+          <small><img src="img/speaker.png" style="vertical-align:middle"></small>
+          <div id="volumeslider"></div>
+          <div id="save"></div>
+        </td>
+      </tr>
+    </table>
+    <div align="center"><small>&copy; Copyright 2015 by <a href="http://catodo.net">Catodo</a> and <a href="http://www.giuseppelaspada.com/">Giuseppe La Spada</a><br />Made with <a 
+href="http://p5js.org/">p5.js</a></small></div>
+  </div>
+  <script src="js/setup.js"></script>
+</body>
+</html>

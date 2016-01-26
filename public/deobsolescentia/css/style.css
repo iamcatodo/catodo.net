@@ -1,0 +1,89 @@
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+.container {
+  max-width: 930px;
+  margin:0 auto;
+}
+
+.row {
+    margin-left: -15px;
+    margin-right: -15px;
+}
+
+.standard-header {
+    background: #fff none repeat scroll 0 0;
+    display: none;
+    height: 70px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 3000;
+}
+
+.pad-top-half {
+  padding-top: 30px;
+  margin:0 auto;
+}
+
+.dark {
+  color: #2d2d2d;
+}
+
+h2 {
+    font-size: 28px;
+    font-weight: 700;
+    letter-spacing: 12px;
+    line-height: 45px;
+    margin-top: 10px;
+    text-transform: uppercase;
+}
+
+.content {
+  margin-top: 40px;
+  margin-bottom: 50px;
+  width : 100%;
+  color: gray;
+}
+
+.page {
+  margin-top: 40px;
+  margin-bottom: 50px;
+  width : 95%;
+  color: black;
+}
+
+.page p {
+  color: #666666;
+}
+
+#cslider, #hslider, #vslider, #randslider, #volumeslider, #save {
+  margin-bottom: 40px;
+}
+
+.row {
+  display: table;
+}
+
+#home {
+  margin-top: -35px;
+  margin-left: 650px;
+}
+
+#gallery {
+  margin-top: -19px;
+  margin-left: 750px;
+}
+
+a {
+  text-decoration:none;
+}
+
+.menu {
+  font-size: 12px;
+  font-weight: 100;
+  letter-spacing: 2px;
+  line-height: 19px;
+  text-transform: uppercase;
+}
