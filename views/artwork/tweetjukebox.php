@@ -4,7 +4,7 @@
   <div class="small-12 medium-12 large-12 columns">
     <h2>TweetJukebox</h2>
     <p style="margin-top:50px">
-      <strong>TweetJukebox</strong> is an interactive installation piloted using <a href="https://twitter.com/">Twitter</a>. A traditional jukebox is a device of public installation that plays music in after the introduction of a coin and the selection of a song. In the TweetJukebox you don’t have to insert a coin to listen the music, you need only to send a message (a tweet) with the name of song, using a special hashtag (#): #lampojukebox.
+      <strong>TweetJukebox</strong> is an interactive installation piloted using <a href="https://twitter.com/">Twitter</a>. A traditional jukebox is a device of public installation that plays music in after the introduction of a coin and the selection of a song. In the TweetJukebox you don’t have to insert a coin to listen the music, you need only to send a message (a tweet) with the name of song, using a special hashtag (#): #tweetjukebox.
     </p>
     <p>
       The song is searched in the database of <a href="https://twitter.com/">Youtube</a> and played from the jukebox. Everyone can choose the song sending a tweet but only the people near the jukebox will listen the song. That means the choose of the song is delocalized, in the cyberspace, instead the listen is located near the juxebox, in the real life. Moreover, considering the dimension of the Youtube’s database, the TweetJukebox become a “celestial jukebox”, a jukebox that can play basically all the songs available on Internet.
