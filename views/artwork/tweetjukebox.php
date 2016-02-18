@@ -17,10 +17,13 @@
       <i>Materials:</i> Wood, Raspberry Pi, custom software, stereo speakers
     </p>
     <p>
-      <img src="/img/projects/tweetjukebox.jpg">
+      <img src="/img/projects/tweetjukebox2.jpg">
     </p>
     <p>
-      <img src="/img/projects/tweetjukebox2.jpg">
+      <img src="/img/projects/tweetjukebox3.jpg">
+    </p>
+    <p>
+      <img src="/img/projects/tweetjukebox.jpg">
     </p>
   </div>
 </div>
