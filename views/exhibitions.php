@@ -1,6 +1,34 @@
 <?php $this->layout('template') ?>
 
 <div class="row">
+ <div class="small-12 medium-7 large-7 columns">
+
+	 <h2>Una Diversa Geografia <small>(2016)</small></h2>
+	 <p>
+		 I partecipated in <a href="https://www.facebook.com/unadiversageografia">Una Diversa Geografia</a> an artist residency in Valenza (Alessandria, Italy). I designed the performance <a href="/artwork/genera">Genera</a> together with <a href="http://www.globster.it">Globster</a>.
+			This artist residency directed by Ugo Pitozzi has been presented at Villa Pravernara (Valenza) from 1st September to 1st October 2016, with the partecipation of <a href="http://www.myriamlaplante.net/">Myriam Laplante</a>, <a href="http://www.aldobrizzi.net/">Aldo Brizzi</a>, Graça Reis, <a href="http://www.cuocolobosetti.org/">Cuocolo Bosetti IRAA Theatre</a>, <a href="http://www.mkonline.it/">MK</a>, <a href="http://www.globster.it">Globster</a>, High Files, etc.
+	 </p>
+		<p>
+		 <i>Press review:</i><br />
+			<a href="http://www.lastampa.it/2016/09/29/edizioni/alessandria/mix-di-linguaggi-artistici-sabato-a-villa-pravernara-con-performer-di-fama-33LRYPxGJhC3q5JWJpZxfO/pagina.html">La Stampa</a>,
+		 <a href="http://www.radiogold.it/notizie/8-cultura/82898-iniziata-una-diversa-geografia-la-prima-residenza-d-artista-a-valenza">Radio Gold</a>,
+		 <a href="http://www.compagniadisanpaolo.it/ita/Aree-operative/Innovazione-culturale/Linguaggi-contemporanei/Bando-Ora/Una-diversa-geografia">Compagnia di San Paolo</a>
+		</p>
+ </div>
+ <div class="small-12 medium-5 large-5 columns">
+	 <div class="lined-list" style="float:right">
+		 <a href="https://www.facebook.com/unadiversageografia"><img src="img/unadiversageografia.png" alt="Una Diversa Geografia"></a>
+	 </div>
+ </div>
+</div>
+
+<div class="row">
+	<div class="small-12 medium-12 large-12 columns">
+		<hr class="project-detail-hr" />
+	</div>
+</div>
+
+<div class="row">
 	<div class="small-12 medium-7 large-7 columns">
 		<h2>SUBLIMIS <small>(2015)</small></h2>
 		<p>

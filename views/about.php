@@ -3,7 +3,7 @@
 <div class="row">
 	<div class="small-12 medium-7 large-7 columns">
 		<p>
-			<strong>Catodo</strong> is the stage name of <a href="http://www.zimuel.it">Enrico Zimuel</a>, a computational artist and software developer from <a href="https://en.wikipedia.org/wiki/Turin">Turin</a> (Italy). He started to play with algorithmic art in the end of ’90s, using 8-bit home computers. He’s fascinated by generative art and parametric design, to research unexpected behaviours with computer algorithms.
+			<strong>Catodo</strong> is the stage name of <a href="http://www.zimuel.it">Enrico Zimuel</a>, a computational artist, sound designer and software developer from <a href="https://en.wikipedia.org/wiki/Turin">Turin</a> (Italy). He started to play with algorithmic art in the end of ’90s, using 8-bit home computers. He’s fascinated by generative art and parametric design, to research unexpected behaviours with computer algorithms.
 		</p>
 		<p>
 			He exposed artworks in international art exhibitions with artists such as <a href="https://www.sitesakamoto.com/">Ryuichi Sakamoto</a>, <a href="http://www.carstennicolai.de/">Carsten Nicolai</a>, <a href="http://www.fennesz.com/">Christian Fennesz</a>, <a href="https://jaromil.dyne.org/">Jaromil</a>, <a href="http://www.bernstrup.com/">Tobias Bernstrup</a>, <a href="http://giuseppelaspada.com/">Giuseppe La Spada</a>, and others.
@@ -21,7 +21,7 @@
 	</div>
 	<div class="small-12 medium-5 large-5 columns">
 		<p>
-			<img src="img/about-photo.png" alt="Your Name" />
+			<img src="img/about-photo.png" alt="Catodo" />
 		</p>
 		<div class="lined-list">
 			<ul>

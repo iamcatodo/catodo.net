@@ -8,6 +8,7 @@ return [
     '/services'      => 'Catodo\Services',
     '/privacy-policy' => 'Catodo\Cookie',
     // artworks
+    '/artwork/genera' => 'Catodo\Artwork',
     '/artwork/deobsolescentia' => 'Catodo\Artwork',
     '/artwork/reflections' => 'Catodo\Artwork',
     '/artwork/bashart' => 'Catodo\Artwork',

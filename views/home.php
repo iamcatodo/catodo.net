@@ -8,6 +8,18 @@
 			<li>
 				<div class="thumbnail">
 					<div class="thumbnail-img">
+						<div class="thumbnail-hover"><a href="/artwork/genera"></a></div>
+						<a href="/artwork/genera"><img src="img/projects/project-10.png" alt="Genera" /></a>
+					</div>
+					<div class="thumbnail-caption"><a class="caption-link" href="/artwork/genera">Genera</a></div>
+				</div>
+			</li>
+			<!-- End project -->
+
+			<!-- Begin project -->
+			<li>
+				<div class="thumbnail">
+					<div class="thumbnail-img">
 						<div class="thumbnail-hover"><a href="/artwork/deobsolescentia"></a></div>
 						<a href="/artwork/deobsolescentia"><img src="img/projects/project-01.png" alt="De obsolescentia" /></a>
 					</div>

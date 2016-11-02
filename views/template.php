@@ -62,6 +62,7 @@ while(x=eval(x));
   			</ul>
   			<div class="social-icons">
           <a href="https://vimeo.com/catodo" target="_blank"><i class="fa fa-vimeo-square fa-2x"></i></a>
+          <a href="https://www.facebook.com/iamcatodo/" target="_blank"><i class="fa fa-facebook-square fa-2x"></i></a>
   				<a href="http://www.twitter.com/iamcatodo" target="_blank"><i class="fa fa-twitter-square fa-2x"></i></a>
   				<a href="https://soundcloud.com/catodo" target="_blank"><i class="fa fa-soundcloud fa-2x"></i></a>
           <a href="https://github.com/iamcatodo" target="_blank"><i class="fa fa-github-square fa-2x"></i></a>
