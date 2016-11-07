@@ -19,13 +19,13 @@
       <i>Materials:</i> ribbons of red cotton, Rasperry Pi, vibration sensors, custom software, stereo speakers
     </p>
     <p>
-      <img src="/img/projects/absolute.jpg">
+      <img src="/img/projects/absolute.jpg" width="100%">
     </p>
     <p>
-      <img src="/img/projects/absolute1.jpg">
+      <img src="/img/projects/absolute1.jpg" width="100%">
     </p>
     <p>
-      <img src="/img/projects/absolute2.jpg">
+      <img src="/img/projects/absolute2.jpg" width="100%">
     </p>
     <p>
       <iframe width="95%" height="180" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/187463811&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>

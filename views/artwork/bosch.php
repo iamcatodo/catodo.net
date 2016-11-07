@@ -14,13 +14,13 @@
       <i>Materials:</i> Digital print 130x70 cm, custom software
     </p>
     <p>
-      <img src="/img/projects/bosch.jpg">
+      <img src="/img/projects/bosch.jpg" width="100%">
     </p>
     <p>
-      <img src="/img/projects/bosch2.jpg">
+      <img src="/img/projects/bosch2.jpg" width="100%">
     </p>
     <p>
-      <iframe src="https://player.vimeo.com/video/90464720" width="1024" height="576" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+      <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/90464720' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
     </p>
   </div>
 </div>

@@ -17,16 +17,16 @@
       <i>Materials:</i> monitor Full HD 46", computer Intel NUC, Leap Motion, custom software, stereo headphones
     </p>
     <p>
-      <img src="/img/projects/deobsolescentia4.jpg">
+      <img src="/img/projects/deobsolescentia4.jpg" width="100%">
     </p>
     <p>
-      <img src="/img/projects/deobsolescentia.jpg">
+      <img src="/img/projects/deobsolescentia.jpg" width="100%">
     </p>
     <p>
-      <img src="/img/projects/deobsolescentia2.jpg">
+      <img src="/img/projects/deobsolescentia2.jpg" width="100%">
     </p>
     <p>
-      <img src="/img/projects/deobsolescentia3.jpg">
+      <img src="/img/projects/deobsolescentia3.jpg" width="100%">
     </p>
 
   </div>

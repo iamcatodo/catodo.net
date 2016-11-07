@@ -16,11 +16,11 @@
       <i>Materials:</i> Projector Full HD, custom software, MIDI controller, laptop, sampler
     </p>
     <p>
-      <img src="/img/projects/genera1.jpg" alt="Globster and Catodo"><br />
+      <img src="/img/projects/genera1.jpg" alt="Globster and Catodo" width="100%"><br />
       <small>From left to right: Globster and Catodo. Photo by <a href="http://www.txtphmp4.info/">TXT PH MP4</a></small>
     </p>
     <p>
-      <iframe src="https://player.vimeo.com/video/185959283" width="1024" height="576" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+      <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/185959283' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
     </p>
 
 

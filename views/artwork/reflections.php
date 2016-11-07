@@ -13,10 +13,10 @@
       <i>Materials:</i> monitor Full HD 50", computer, Leap Motion, custom software, stereo headphones
     </p>
     <p>
-      <img src="/img/projects/reflections2.jpg">
+      <img src="/img/projects/reflections2.jpg" width="100%">
     </p>
     <p>
-      <img src="/img/projects/reflections.jpg">
+      <img src="/img/projects/reflections.jpg" width="100%">
     </p>
   </div>
 </div>

@@ -13,10 +13,10 @@
       <i>Materials:</i> Wood, 2 Projectors Full HD, 2 Raspberry Pi, custom software
     </p>
     <p>
-      <img src="/img/projects/perimetri.jpg">
+      <img src="/img/projects/perimetri.jpg" width="100%">
     </p>
     <p>
-      <img src="/img/projects/perimetri2.jpg">
+      <img src="/img/projects/perimetri2.jpg" width="100%">
     </p>
   </div>
 </div>

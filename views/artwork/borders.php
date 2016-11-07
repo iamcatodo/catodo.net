@@ -15,18 +15,20 @@
       <i>Materials:</i> Projector Full HD (ceiling mount), white canvas, Rasperry Pi, custom software
     </p>
     <p>
-       <img src="/img/projects/borders2.jpg">
+       <div id="borders" width="100%" height="40%"></div>
     </p>
-    <div id="borders" style="position:relative;top:-531px;left:227px"></div>
-    <p style="position:relative;top:-250px;">
-       <img src="/img/projects/borders.jpg">
+    <p>
+       <img src="/img/projects/borders.jpg" width="100%">
     </p>
   </div>
 </div>
 <script type="text/javascript">
 var red, green, blue = 0;
+var myCanvas, canvasDiv, sketchCanvas;
 function setup() {
-  var myCanvas = createCanvas(570, 330);
+  canvasDiv = document.getElementById('borders');
+  sketchCanvas = createCanvas(canvasDiv.offsetWidth, canvasDiv.offsetWidth/2);
+  myCanvas = createCanvas(width, height);
   myCanvas.parent('borders');
   background(255);
   stroke(random(50, 255), random(50, 255), random(50, 255), random(10,100));
@@ -45,6 +47,9 @@ function draw() {
   fill(255);
   triangle(0, random(height), 0, height, random(width), height);
   triangle(random(width), 0, width, 0, width, random(height));
+}
+function windowResized() {
+  resizeCanvas(canvasDiv.offsetWidth, canvasDiv.offsetWidth/2);
 }
 </script>
 <script type="text/javascript" src="/js/p5.min.js"></script>

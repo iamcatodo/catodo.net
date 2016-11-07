@@ -20,13 +20,13 @@ spread to art, literature, cinema, culture and philosophy in no time.
       <i>Materials:</i> Projectof Full HD, Laptop, MIDI controller, custom software
     </p>
     <p>
-      <img src="/img/projects/defrag2.jpg">
+      <img src="/img/projects/defrag2.jpg" width="100%">
     </p>
     <p>
-      <img src="/img/projects/defrag.jpg">
+      <img src="/img/projects/defrag.jpg" width="100%">
     </p>
     <p>
-      <img src="/img/projects/defrag3.jpg">
+      <img src="/img/projects/defrag3.jpg" width="100%">
     </p>
   </div>
 </div>

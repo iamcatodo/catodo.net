@@ -21,10 +21,10 @@
       <i>Materials:</i> digital prints 32x32 cm, custom software
     </p>
     <p>
-      <img src="/img/projects/bashart.jpg">
+      <img src="/img/projects/bashart.jpg" width="100%">
     </p>
     <p>
-      <img src="/img/projects/bashart2.jpg">
+      <img src="/img/projects/bashart2.jpg" width="100%">
     </p>
   </div>
 </div>
