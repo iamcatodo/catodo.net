@@ -57,7 +57,6 @@ while(x=eval(x));
 //]]>
 </script>
 </li>
-          <li>VAT number: IT 11446240019</li>
           <li>HTML template by <a href="http://www.typeandgrids.com" target="_blank">Type &amp; Grids</a></li>
   			</ul>
   			<div class="social-icons">
