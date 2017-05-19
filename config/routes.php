@@ -18,5 +18,6 @@ return [
     '/artwork/perimetri' => 'Catodo\Artwork',
     '/artwork/randomcuts' => 'Catodo\Artwork',
     '/artwork/tweetjukebox' => 'Catodo\Artwork',
-    '/artwork/defrag' => 'Catodo\Artwork'
+    '/artwork/defrag' => 'Catodo\Artwork',
+    '/artwork/noisecurve' => 'Catodo\Artwork'
 ];
