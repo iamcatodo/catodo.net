@@ -19,5 +19,6 @@ return [
     '/artwork/randomcuts' => 'Catodo\Artwork',
     '/artwork/tweetjukebox' => 'Catodo\Artwork',
     '/artwork/defrag' => 'Catodo\Artwork',
-    '/artwork/noisecurve' => 'Catodo\Artwork'
+    '/artwork/noisecurve' => 'Catodo\Artwork',
+    '/artwork/condizioneumana' => 'Catodo\Artwork'
 ];
