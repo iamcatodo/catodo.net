@@ -1,6 +1,63 @@
 <?php $this->layout('template') ?>
 
 <div class="row">
+	<div class="small-12 medium-7 large-7 columns">
+		<h2>Here <small>(2017)</small></h2>
+		<p>
+			I presented, together with <a href="http://valentinapeter.com/">Valentina Peter</a> (a.k.a. Effemeride), the <a href="/artwork/condizioneumana">Condizione Umana</a> art installation at <a href="http://artivisive.cavallerizzareale.org/here.html">Here 2017</a>, a massive artist collective at <a href="https://cavallerizzareale.wordpress.com/">Cavallerizza Reale</a> of Turin.
+            About 300 artists presented their artworks during 10 days with more than 10,000 attendees.
+		</p>
+    <p>
+      <i>Press review:</i><br />
+      <a href="http://www.lastampa.it/2017/05/19/torinosette/primapagina/segnalazioni/la-cavallerizza-casa-delle-arti-contemporanee-azjGvMCVfaOwToGS1cba4M/pagina.html">La Stampa</a>,
+      <a href="http://torino.repubblica.it/cronaca/2017/05/19/news/_here_la_cavallerizza_per_dieci_giorni_si_apre_a_quattrocento_artisti-165854766/">La Repubblica</a>,
+      <a href="http://www.mole24.it/2017/03/11/mostra-here-a-torino/">MoleVentiquattro</a>,
+      <a href="http://www.inchiostrofresco.it/blog/2017/05/14/here-2017-trecento-artisti-alla-cavallerizza-torino/">L'inchiostro fresco</a>,
+      <a href="http://www.artribune.com/mostre-evento-arte/here-2017/">Artribune</a>,
+      <a href="http://www.mentelocale.it/torino/eventi/49423-here-2017-mostra-collettiva-di-arte-contemporanea.htm">Mentelocale</a>,
+      <a href="http://www.exibart.com/profilo/eventiV2.asp?idelemento=168784">Exibart</a>
+    </p>
+	</div>
+	<div class="small-12 medium-5 large-5 columns">
+		<div class="lined-list" style="float:right">
+			<a href="http://artivisive.cavallerizzareale.org/here.html"><img src="img/here.png" alt="Here 2017"></a>
+		</div>
+	</div>
+</div>
+
+<div class="row">
+	<div class="small-12 medium-12 large-12 columns">
+		<hr class="project-detail-hr" />
+	</div>
+</div>
+
+<div class="row">
+	<div class="small-12 medium-7 large-7 columns">
+		<h2>Virtuality Ladder <small>(2017)</small></h2>
+		<p>
+			I presented the <a href="/artwork/noisecurve">Noise Curve</a> installation at <a href="http://www.samanthalina.it/sl-art-studio">Studio D'Arte SL</a> of Samantha Lina in Palazzo delle Stelline, Corso Magenta 63, Milan (Italy). I've been selected for the artist collective <i>Virtuality Ladder</i> organized by <a href="http://www.doloresart.it/">DoloresArt Laboratory</a>.
+            The artists selected for the exhibition were: Pino Bertelli, Niccolò Biddau, Stefano Bonazzi, Maurizio Bondesan, Maria Dolores Cattaneo, Cristian Ceccaroni, Claus Larsen, Samantha Lina, Giovanni Mangiacapra, Matteo Mezzetta, Paola Mongelli.
+		</p>
+    <p>
+      <i>Press review:</i><br />
+      <a href="http://www.milanotoday.it/eventi/virtuality-ladder.html">Milano ToDay</a>,
+      <a href="http://www.newsrss24.com/italia/2017/06/01/virtuality-ladder/">News RSS 24</a>
+    </p>
+	</div>
+	<div class="small-12 medium-5 large-5 columns">
+		<div class="lined-list" style="float:right">
+			<a href="http://www.doloresart.it/virtuality-ladder/"><img src="img/virtualityladder.png" alt="Virtuality Ladder"></a>
+		</div>
+	</div>
+</div>
+
+<div class="row">
+	<div class="small-12 medium-12 large-12 columns">
+		<hr class="project-detail-hr" />
+	</div>
+</div>
+
+<div class="row">
  <div class="small-12 medium-7 large-7 columns">
 
 	 <h2>Una Diversa Geografia <small>(2016)</small></h2>
