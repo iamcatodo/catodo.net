@@ -73,6 +73,6 @@ while(x=eval(x));
   <script src="/js/vendor/jquery.min.js"></script>
   <script src="/js/foundation.min.js"></script>
   <script src="/js/hawthorne.js"></script>
-  <!--Start Cookie Script--> <script type="text/javascript" charset="UTF-8" src="http://cookie-script.com/s/9f250972bd53c28e2e1cd59bad8d6165.js"></script> <!--End Cookie Script-->
+  <!--Start Cookie Script--> <script type="text/javascript" charset="UTF-8" src="https://cookie-script.com/s/9f250972bd53c28e2e1cd59bad8d6165.js"></script> <!--End Cookie Script-->
 </body>
 </html>
