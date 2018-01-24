@@ -5,8 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
   <title>Catodo - computational artist and software developer from Turin (Italy)</title>
-  <meta name="description" content="Catodo is a computational artist and software developer from Turin (Italy). He believe that code is poetry and he express themselve with it.">
-  <meta name="keywords" content="computational art, creative code, creative programming, software, computer music, generative music, glitch, programming, generative art, digital art, net art, software art, arduino, raspberry, leap motion, kinect, touchosc, midi, processing, chuck, python, java">
+  <meta name="description" content="Catodo is a computational artist, sound designer, and software developer from Turin (Italy).">
+  <meta name="keywords" content="computational art, creative code, creative programming, software, sound design, computer music, generative music, glitch, programming, generative art, digital art, net art, software art, arduino, raspberry, leap motion, kinect, touchosc, midi, processing, chuck, python, java">
 
   <link href="/css/style.css" rel="stylesheet">
   <link href="/css/font-awesome.min.css" rel="stylesheet">
