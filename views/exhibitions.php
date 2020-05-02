@@ -2,6 +2,34 @@
 
 <div class="row">
 	<div class="small-12 medium-7 large-7 columns">
+		<h2>Internet Festival <small>(2019)</small></h2>
+		<p>
+			I presented a site-specific <a href="/artwork/randomcuts">Randomcut</a> performance at <a href="https://www.internetfestival.it/">Internet Festival 2019</a> of Pisa (Italy).
+			For the performance I used 3000+ photos from the collection <a href="https://digitalcollections.nypl.org/search/index?filters%5BnamePart_mtxt_s%5D%5B%5D=Colmer%2C+Roy%2C+1935-2014&filters%5Broot-collection%5D=0f38cb80-c5ae-012f-b01b-58d385a7bc34&keywords=">NY Doors</a> of Colmer Roy, from the New York Public Library Digital Collections.</p>
+		</p>
+		<p>
+			<i>Press review:</i><br />
+			<a href="https://firenze.repubblica.it/cronaca/2019/10/08/news/pisa_capitale_digitale_via_all_internet_festival-238036840/">La Repubblica</a>,
+			<a href="https://www.punto-informatico.it/speciali/internet-festival/">Puntoinformatico.it</a>,
+			<a href="https://www.lanazione.it/pisa/cronaca/evento-festival-internet-pisa-1.4799593">La Nazione</a>,
+			<a href="https://iltirreno.gelocal.it/regione/toscana/2019/09/24/news/internet-festival-i-temi-i-protagonisti-e-gli-eventi-della-nona-edizione-1.37504307">Il Tirreno</a>
+		</p>
+	</div>
+	<div class="small-12 medium-5 large-5 columns">
+		<div class="lined-list" style="float:right">
+			<a href="https://www.internetfestival.it/"><img src="img/internet_festival2019.jpg" alt="Internet Festival"></a>
+		</div>
+	</div>
+</div>
+
+<div class="row">
+	<div class="small-12 medium-12 large-12 columns">
+		<hr class="project-detail-hr" />
+	</div>
+</div>
+
+<div class="row">
+	<div class="small-12 medium-7 large-7 columns">
 		<h2>Here <small>(2017)</small></h2>
 		<p>
 			I presented, together with <a href="http://valentinapeter.com/">Valentina Peter</a> (a.k.a. Effemeride), the <a href="/artwork/condizioneumana">Condizione Umana</a> art installation at <a href="http://artivisive.cavallerizzareale.org/here.html">Here 2017</a>, a massive artist collective at <a href="https://cavallerizzareale.wordpress.com/">Cavallerizza Reale</a> of Turin.

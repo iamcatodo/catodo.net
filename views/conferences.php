@@ -2,6 +2,27 @@
 
 <div class="row">
 	<div class="small-12 medium-7 large-7 columns">
+		<h2>Internet Festival <small>(2019)</small></h2>
+		<p>
+			I've been invited as panelist to discuss about creative programming at <a href="https://www.internetfestival.it/">Internet Festival 2019</a> of Pisa (Italy).<br />
+			I presented how I play with algorithms and data using open source softwares and public data sets. Moreover, I did an audio/video performance using 3000+ photos from the <a href="https://digitalcollections.nypl.org/">NYPL Digital Collections</a>.
+		</p>
+	</div>
+	<div class="small-12 medium-5 large-5 columns">
+		<div class="lined-list" style="float:right">
+			<a href="https://www.internetfestival.it/"><img src="img/internet_festival2019.jpg" alt="Internet Festival"></a>
+		</div>
+	</div>
+</div>
+
+<div class="row">
+	<div class="small-12 medium-12 large-12 columns">
+		<hr class="project-detail-hr" />
+	</div>
+</div>
+
+<div class="row">
+	<div class="small-12 medium-7 large-7 columns">
 		<h2>Pietro Grossi: Arte e/o Computer <small>(2017)</small></h2>
 		<p>
 			I presented a talk about creative coding at <a href="https://www.centropecci.it/en">Centro per l'Arte Contemporanea Luigi Pecci</a> of Prato (Italy), during the <a href="http://www.pietrogrossi.org/en">centenary of Pietro Grossi</a>.<br />
